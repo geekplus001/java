@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;echo&apos; to &apos;服务器同时处理多个客户端/src&apos;&#x0D;&#x0A;- Original project: &apos;TCP实现ECHO程序&apos;&#x0D;&#x0A;- Destination element: &apos;服务器同时处理多个客户端/src&apos;&#x0D;&#x0A;- Original element: &apos;TCP实现ECHO程序/src/echo&apos;" description="Copy package" destination="=服务器同时处理多个客户端/src" element1="/src&lt;echo" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1437299388740" version="1.0"/>
+</session>

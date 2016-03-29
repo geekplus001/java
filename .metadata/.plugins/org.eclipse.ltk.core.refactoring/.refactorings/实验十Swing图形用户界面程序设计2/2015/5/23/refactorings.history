@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;键盘事件处理例程.J_KeyBoard.J_KeyBoard.java&apos; to &apos;J_Keyboard.java&apos;&#x0D;&#x0A;- Original project: &apos;实验十Swing图形用户界面程序设计2&apos;&#x0D;&#x0A;- Original element: &apos;键盘事件处理例程.J_KeyBoard.J_KeyBoard.java&apos;&#x0D;&#x0A;- Renamed element: &apos;键盘事件处理例程.J_KeyBoard.J_Keyboard.java&apos;" description="Rename compilation unit &apos;J_KeyBoard.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;键盘事件处理例程.J_KeyBoard{J_KeyBoard.java" name="J_Keyboard.java" references="false" stamp="1433071122980" version="1.0"/>
+</session>

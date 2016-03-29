@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/实验九Swing图形用户界面设计（1）/src/组合框列表框文本区域和滚动窗格例程/J_Lines/J_Lines.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="组合框列表框文本区域和滚动窗格例程.J_Lines.J_Lines"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="实验九Swing图形用户界面设计（1）"/>
+</launchConfiguration>

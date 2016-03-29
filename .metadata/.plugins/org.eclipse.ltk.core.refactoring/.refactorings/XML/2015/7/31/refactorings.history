@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;dom.xml.SexParseDemo&apos; to &apos;SaxParseDemo&apos;&#x0D;&#x0A;- Original project: &apos;XML&apos;&#x0D;&#x0A;- Original element: &apos;dom.xml.SexParseDemo&apos;&#x0D;&#x0A;- Renamed element: &apos;dom.xml.SaxParseDemo&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;SexParseDemo&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;dom.xml{SexParseDemo.java[SexParseDemo" matchStrategy="1" name="SaxParseDemo" qualified="false" references="true" similarDeclarations="false" stamp="1438235893269" textual="false" version="1.0"/>
+</session>

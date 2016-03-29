@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;日期操作类.com.vince.date.SimpleDateFormat&apos; to &apos;SimpleDateFormatDemo&apos;&#x0D;&#x0A;- Original project: &apos;日期操作类&apos;&#x0D;&#x0A;- Original element: &apos;日期操作类.com.vince.date.SimpleDateFormat&apos;&#x0D;&#x0A;- Renamed element: &apos;日期操作类.com.vince.date.SimpleDateFormatDemo&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;SimpleDateFormat&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;日期操作类.com.vince.date{SimpleDateFormat.java[SimpleDateFormat" matchStrategy="1" name="SimpleDateFormatDemo" qualified="false" references="true" similarDeclarations="false" stamp="1432827788002" textual="false" version="1.0"/>
+</session>

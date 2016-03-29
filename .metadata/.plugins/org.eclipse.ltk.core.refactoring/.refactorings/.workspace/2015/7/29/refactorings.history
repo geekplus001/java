@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;线程的声明周期与线程池&apos; to &apos;线程的生命周期与线程池&apos;&#x0D;&#x0A;- Original element: &apos;线程的声明周期与线程池&apos;&#x0D;&#x0A;- Renamed element: &apos;线程的声明周期与线程池&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;线程的声明周期与线程池&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=线程的声明周期与线程池" name="线程的生命周期与线程池" references="true" stamp="1437124002374" version="1.0"/>
+</session>

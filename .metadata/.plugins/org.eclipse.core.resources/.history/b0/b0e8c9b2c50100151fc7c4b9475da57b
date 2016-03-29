@@ -1,0 +1,10 @@
+package 在框架中添加标签的例程.J_LableFrame;
+
+public class J_LableFrame {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

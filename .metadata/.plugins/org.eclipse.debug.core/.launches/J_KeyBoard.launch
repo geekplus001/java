@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/实验十Swing图形用户界面程序设计2/src/键盘事件处理例程/J_KeyBoard/J_Keyboard.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="键盘事件处理例程.J_KeyBoard.J_Keyboard"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="实验十Swing图形用户界面程序设计2"/>
+</launchConfiguration>

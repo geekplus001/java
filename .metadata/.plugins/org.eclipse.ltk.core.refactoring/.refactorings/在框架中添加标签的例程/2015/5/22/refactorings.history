@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;在框架中添加标签的例程.J_LableFrame.J_LableFrame.java&apos; to &apos;J_LabelFrame.java&apos;&#x0D;&#x0A;- Original project: &apos;在框架中添加标签的例程&apos;&#x0D;&#x0A;- Original element: &apos;在框架中添加标签的例程.J_LableFrame.J_LableFrame.java&apos;&#x0D;&#x0A;- Renamed element: &apos;在框架中添加标签的例程.J_LableFrame.J_LabelFrame.java&apos;" description="Rename compilation unit &apos;J_LableFrame.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;在框架中添加标签的例程.J_LableFrame{J_LableFrame.java" name="J_LabelFrame.java" references="false" stamp="1432438432583" version="1.0"/>
+</session>
